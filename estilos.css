@@ -1,0 +1,33 @@
+.juego {
+  border: 5px solid #1abc9c;
+  padding: 10px;
+  text-align: center;
+  background: ;
+  font-family: "Silkscreen", cursive;
+}
+
+button {
+  background: #1abc9c;
+  border: 2px solid #154360;
+  border-radius: 5px;
+  width: 150px;
+  height: 50px;
+  font-weight: bolder;
+  font-size: 20px;
+  font-style: italic;
+  font-family: "Silkscreen";
+  margin: 10px;
+}
+
+button:hover {
+  background: yellow;
+  height: 70px;
+  width: 150px;
+  font-size: 30px;
+}
+
+#maquina,
+#usuario,
+#result {
+  text-align: left;
+}
